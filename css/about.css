@@ -1,0 +1,7 @@
+#about-background{
+    background-image: url(../img/peakpx.jpeg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
